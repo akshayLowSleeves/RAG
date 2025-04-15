@@ -1,0 +1,276 @@
+{
+    "english": [
+        {
+            "question": "When is it recommended to have the first Technical Inspection for Volkswagen electric vehicles?",
+            "answer": "It is recommended to have the first Technical Inspection for Volkswagen electric vehicles after 2 years.",
+            "rag_answer": "Se recomienda pasar la primera Inspecci\u00f3n T\u00e9cnica para veh\u00edculos el\u00e9ctricos Volkswagen a los 2 a\u00f1os."
+        },
+        {
+            "question": "What does the inspection include regarding the battery?",
+            "answer": "The inspection includes checking, adjusting, or lubricating the battery.",
+            "rag_answer": "The inspection regarding the battery includes checking the battery voltage and the state of charge."
+        },
+        {
+            "question": "What is the price of the Technical Inspection for e-up! and e-Golf models?",
+            "answer": "The price is 80\u20ac, all included.",
+            "rag_answer": "The price of the Technical Inspection for the e-up! and e-Golf models is 80\u20ac."
+        },
+        {
+            "question": "Who performs the work on the electrical components of the vehicle?",
+            "answer": "The work on the electrical components is performed by a high-voltage specialist (HVT) at Volkswagen Official Service centers.",
+            "rag_answer": "Los trabajos en los componentes el\u00e9ctricos del veh\u00edculo son realizados en los Servicios Oficiales de Volkswagen por un especialista en alto voltaje (HVT)."
+        },
+        {
+            "question": "What systems are checked during the Technical Inspection?",
+            "answer": "The inspection includes checking the braking system, suspension, steering, charging cable, high-voltage outlets, and more.",
+            "rag_answer": "During the Technical Inspection, the following systems are checked:\n\n- Battery\n- Front and rear lighting, headlight adjustment\n- Interior lighting\n- Windshield wiper and washer system\n- Sunroof\n- Body corrosion test\n- Detection of windshield and window damage\n- Tires\n- Timing belt\n- Visual check of the engine and gearbox\n- Suspension and steering system\n- Exhaust gas system\n- Brake system, pad thickness, and disc condition\n- Antifreeze washer fluid\n- Cooling system fluid\n- Test drive"
+        },
+        {
+            "question": "What is the duration of Volkswagen's repair warranty?",
+            "answer": "Volkswagen provides a 2-year repair warranty, which includes labor, Volkswagen Original Parts\u00ae, and Volkswagen Accessories.",
+            "rag_answer": "La duraci\u00f3n de la garant\u00eda de reparaci\u00f3n de Volkswagen es de 2 a\u00f1os."
+        },
+        {
+            "question": "How long does the bodywork and paint warranty last against perforation by corrosion?",
+            "answer": "The warranty against perforation by corrosion in the bodywork lasts for 12 years, with no mileage limit.",
+            "rag_answer": "The warranty against perforation by corrosion in the bodywork lasts for 12 years."
+        },
+        {
+            "question": "What is the coverage period for a new Volkswagen vehicle warranty?",
+            "answer": "A new Volkswagen vehicle warranty covers material and manufacturing defects for 2 years, with no mileage limit.",
+            "rag_answer": "The warranty coverage period for a new Volkswagen vehicle is 2 years for material and manufacturing defects, with no mileage limitation."
+        },
+        {
+            "question": "What is the maximum mileage covered under the battery warranty for electric and hybrid vehicles?",
+            "answer": "The battery warranty for electric and hybrid vehicles covers up to 160,000 km or 8 years, whichever comes first.",
+            "rag_answer": "The maximum mileage covered under the battery warranty for electric and hybrid vehicles is 160,000 km."
+        },
+        {
+            "question": "Can the warranty for a new Volkswagen vehicle be extended, and if so, for how long?",
+            "answer": "Yes, the warranty for a new Volkswagen vehicle can be extended by 2 years (up to 80,000 km) or 3 years (up to 100,000 km).",
+            "rag_answer": "S\u00ed, la garant\u00eda de un veh\u00edculo nuevo Volkswagen puede extenderse. Se puede extender por:\n\n- 2 a\u00f1os adicionales.\n- 3 a\u00f1os adicionales.\n\nEstas extensiones est\u00e1n disponibles en el momento de la compra, hasta un m\u00e1ximo de 80,000 km o 100,000 km, respectivamente."
+        },
+        {
+            "question": "When is it recommended to change the oil for the DSG system?",
+            "answer": "It is recommended to change the oil for the DSG system every 60,000 km or 4 years, whichever comes first.",
+            "rag_answer": "Se recomienda cambiar el aceite del sistema DSG cada 60,000 km o 4 a\u00f1os."
+        },
+        {
+            "question": "Why should the oil for the DSG system be changed at Volkswagen Service?",
+            "answer": "At Volkswagen Service, we use the Volkswagen Diagnostic equipment to determine the exact amount of oil the vehicle needs, ensuring precision.",
+            "rag_answer": "El cambio de aceite del sistema DSG debe realizarse en Volkswagen Service porque cuentan con el equipo de Diagnosis Volkswagen, que permite determinar la cantidad exacta de aceite que el veh\u00edculo necesita."
+        },
+        {
+            "question": "What does the DSG oil change service include?",
+            "answer": "The service includes labor, oil for the change, oil filter, auxiliary parts, and the use of Volkswagen Original Parts\u00ae.",
+            "rag_answer": "The DSG oil change service includes:\n\n- Mano de obra (Labor).\n- Aceite para el cambio (Oil for the change).\n- Filtro de aceite (Oil filter).\n- Piezas auxiliares (Auxiliary parts)."
+        },
+        {
+            "question": "What are the benefits of using Volkswagen Original Parts\u00ae for the DSG oil change?",
+            "answer": "Volkswagen Original Parts\u00ae ensure optimal performance of the synchronizer and clutch due to their lubricating properties, thermal and oxidative stability, and excellent cold flow.",
+            "rag_answer": "The benefits of using Volkswagen Original Parts\u00ae for the DSG oil change include:\n\n- Optimal performance of the synchronizer and clutch, thanks to its lubricating characteristics.\n- Thermal and oxidative stability.\n- Optimal fluidity in cold conditions.\n\nThese benefits are highlighted as part of the advantages of using Volkswagen Original Parts\u00ae."
+        },
+        {
+            "question": "What is the price for a DSG oil change for a Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE?",
+            "answer": "The recommended price for a DSG oil change for a Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE is \u20ac225 (VAT included).",
+            "rag_answer": "The price for a DSG oil change for a Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE is 225\u20ac."
+        },
+        {
+            "question": "What is the Volkswagen Check service?",
+            "answer": "Volkswagen Check is a service that provides a technical valuation of a used Volkswagen through a physical inspection of the vehicle, helping you sell or buy with total confidence.",
+            "rag_answer": "The Volkswagen Check service is designed for buying or selling a second-hand Volkswagen with complete confidence. It provides a technical evaluation of the vehicle\u2019s condition after a physical inspection. The service is exclusive to clients with vehicles over six months old.\n\nThe service includes:\n\n- Visual inspection on a lift\n- Test drives\n- Inspection under the hood\n- Lighting check\n- Inspection of the car body and interior\n- Inspection of the vehicle\u2019s underside\n- General inspection\n\nThe service adds value for sellers by providing an expert evaluation, and offers buyers peace of mind by detailing the vehicle's condition at the time of purchase."
+        },
+        {
+            "question": "What are the conditions for using Volkswagen Check?",
+            "answer": "The service is exclusively available for clients with vehicles that are more than six months old.",
+            "rag_answer": "Las condiciones para utilizar Volkswagen Check son que el servicio es exclusivo para clientes con veh\u00edculos de m\u00e1s de seis meses de antig\u00fcedad."
+        },
+        {
+            "question": "What does the Volkswagen Check service include?",
+            "answer": "The service includes a visual inspection on a lift, circulation tests, under-the-hood inspection, check of the lighting, assessment of the body and interior, inspection of the lower part of the vehicle, and a general overall check.",
+            "rag_answer": "El servicio Volkswagen Check incluye:\n\n- Comprobaci\u00f3n visual en elevador.\n- Pruebas de circulaci\u00f3n.\n- Comprobaci\u00f3n bajo el cap\u00f3.\n- Alumbrado.\n- Comprobaci\u00f3n del estado de la carrocer\u00eda y el interior.\n- Comprobaci\u00f3n de la parte baja del veh\u00edculo.\n- Comprobaci\u00f3n general."
+        },
+        {
+            "question": "How does Volkswagen Check benefit buyers?",
+            "answer": "It offers buyers the peace of mind of knowing, from expert professionals, the actual condition of the vehicle at the time of purchase.",
+            "rag_answer": "Volkswagen Check benefits buyers by providing peace of mind. It ensures buyers know the condition of the vehicle at the time of purchase, as verified by experts."
+        },
+        {
+            "question": "What is Volkswagen Seguros by Zurich?",
+            "answer": "Volkswagen Seguros by Zurich is a tailored insurance service for Volkswagen drivers offering comprehensive coverage, ensuring maximum protection and peace of mind.",
+            "rag_answer": "Volkswagen Seguros by Zurich es un seguro hecho a medida para conductores de Volkswagen, ofreciendo ventajas como un 50% de descuento en la franquicia al reparar el veh\u00edculo en el concesionario donde se contrat\u00f3 la p\u00f3liza, y el valor de compra garantizado, asegurando el valor del veh\u00edculo en caso de siniestro total durante los primeros dos a\u00f1os. Tambi\u00e9n proporciona acceso a la Red de Servicios Oficiales Volkswagen con personal especializado usando recambios originales."
+        },
+        {
+            "question": "What advantages does Volkswagen Seguros by Zurich provide?",
+            "answer": "It offers a 50% discount on the deductible (up to a minimum of \u20ac180 when repaired at the authorized dealership or service center) and guarantees the purchase value in case of total loss within the first two years.",
+            "rag_answer": "Volkswagen Seguros by Zurich provides the following advantages:\n\n1. **50% Discount on Franchise**: Repair your vehicle at the Dealership or Official Service where you contracted your policy, and they will reduce the franchise by 50%, with a minimum of 180\u20ac.\n\n2. **New Value Guarantee**: In case of total loss, they assure you the value of your vehicle at the time of purchase for the first two years.\n\n3. **Volkswagen Official Services Network**: Access to highly specialized personnel and guarantee that any repair will be made with Volkswagen Original Parts."
+        },
+        {
+            "question": "What is the recommended interval for official Volkswagen maintenance?",
+            "answer": "It is recommended to perform the official Volkswagen maintenance every 30,000 km or 2 years, although it may need to be done sooner depending on how the vehicle is used.",
+            "rag_answer": "La recomendaci\u00f3n para el Mantenimiento Oficial Volkswagen es hacerlo cada 30,000 km o cada 2 a\u00f1os. Sin embargo, dependiendo del uso del veh\u00edculo, esta operaci\u00f3n podr\u00eda ser necesaria antes."
+        },
+        {
+            "question": "What potential issues can a worn-out oil filter cause?",
+            "answer": "A worn-out oil filter can lead to higher fuel consumption, a loss of engine power, damage to the bearings, and even severe wear and damage to the engine.",
+            "rag_answer": "Un filtro de aceite en mal estado puede causar:\n\n- Mayor consumo de combustible.\n- P\u00e9rdida de potencia en el veh\u00edculo.\n- Da\u00f1os en los cojinetes.\n- Desgaste y aver\u00eda del motor."
+        },
+        {
+            "question": "Why should you choose Volkswagen Service for maintenance?",
+            "answer": "Volkswagen Service professionals know your car well and they always use Volkswagen Original Parts\u00ae and Volkswagen Original Oil, ensuring the proper performance and protection of your vehicle.",
+            "rag_answer": "You should choose Volkswagen Service for maintenance because:\n\n1. **Expert Knowledge**: The professionals know your Volkswagen very well, ensuring the proper functioning of your vehicle.\n\n2. **Use of Genuine Parts**: Volkswagen Service uses Original Parts and Oil specifically designed for Volkswagen engines, enhancing vehicle performance and driving experience.\n\n3. **Specialized Equipment**: They use diagnosis equipment to determine the exact amount of oil needed, ensuring precision.\n\n4. **Comprehensive Services**: They offer a range of maintenance operations, including oil changes, air filter replacements, and more.\n\n5. **Maximized Performance and Safety**: Regular service checks ensure your vehicle runs at peak performance and with maximum safety.\n\n6. **Environmental Considerations**: The coolant used, G13, is recyclable and manufactured with reduced gas emissions.\n\nEach service includes essential maintenance tasks like labor, checks specified by the manufacturer, and use of high-performance oils and auxiliary parts."
+        },
+        {
+            "question": "What are some of the services included in the official Volkswagen maintenance?",
+            "answer": "The maintenance includes labor, a review of the control points specified by the manufacturer, replacement of the oil filter, and an oil change using Volkswagen Original Oil, among other checks.",
+            "rag_answer": "Algunos de los servicios incluidos en el mantenimiento oficial de Volkswagen son:\n\n- Inspecci\u00f3n T\u00e9cnica\n- Inspecci\u00f3n T\u00e9cnica Volkswagen el\u00e9ctricos\n- Cambio de filtro de polvo y polen\n- Cambio de buj\u00edas\n- Cambio de correa de distribuci\u00f3n\n- Cambio de filtro de aire\n- Cambio de filtro de combustible\n- Cambio de l\u00edquido de frenos\n- Cambio de aceite sistema DSG\n- Cambio de aceite sistema 4MOTION\n- Reposici\u00f3n aditivo AdBlue\u00ae"
+        },
+        {
+            "question": "What is the recommended interval for the first technical inspection?",
+            "answer": "The first technical inspection is recommended at 3 years or 45,000 km, and thereafter every 2 years or 60,000 km, as indicated by the Volkswagen Maintenance Plan.",
+            "rag_answer": "Para los veh\u00edculos Volkswagen convencionales, se recomienda pasar la primera Inspecci\u00f3n T\u00e9cnica a los 3 a\u00f1os o 45,000 km. Para los Volkswagen el\u00e9ctricos, se recomienda pasar la primera Inspecci\u00f3n T\u00e9cnica a los 2 a\u00f1os."
+        },
+        {
+            "question": "What services are provided during the technical inspection?",
+            "answer": "The technical inspection includes labor, an electronic diagnosis, a check of the engine oil, and the verification, adjustment, or lubrication of various components such as the battery, lights, windshield wipers, and more.",
+            "rag_answer": "The services provided during the technical inspection include:\n\n- Mano de obra (Labor).\n- Diagn\u00f3stico electr\u00f3nico (Electronic diagnostics).\n- Revisi\u00f3n del aceite del motor (Engine oil check).\n- Revisi\u00f3n de los puntos de control especificados por el fabricante (Inspection of manufacturer-specified control points).\n\nAdditionally, there is:\n\n- Verificaci\u00f3n, ajuste o engrase de varios componentes como bater\u00eda, alumbrado, neum\u00e1ticos, entre otros.\n- Comprobaciones y aseguramiento del funcionamiento de diversos sistemas del veh\u00edculo."
+        }
+    ],
+    "spanish": [
+        {
+            "question": "\u00bfCu\u00e1ndo se recomienda hacer la primera Inspecci\u00f3n T\u00e9cnica para veh\u00edculos el\u00e9ctricos de Volkswagen?",
+            "answer": "Se recomienda hacer la primera Inspecci\u00f3n T\u00e9cnica para veh\u00edculos el\u00e9ctricos de Volkswagen a los 2 a\u00f1os.",
+            "rag_answer": "La primera Inspecci\u00f3n T\u00e9cnica para veh\u00edculos el\u00e9ctricos de Volkswagen se recomienda a los 2 a\u00f1os."
+        },
+        {
+            "question": "\u00bfQu\u00e9 incluye la inspecci\u00f3n respecto a la bater\u00eda?",
+            "answer": "La inspecci\u00f3n incluye la verificaci\u00f3n, ajuste o engrasado de la bater\u00eda.",
+            "rag_answer": "La inspecci\u00f3n respecto a la bater\u00eda incluye la \"comprobaci\u00f3n de la tensi\u00f3n de la bater\u00eda y el estado de carga\"."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el precio de la Inspecci\u00f3n T\u00e9cnica para los modelos e-up! y e-Golf?",
+            "answer": "El precio es de 80\u20ac, todo incluido.",
+            "rag_answer": "El precio de la Inspecci\u00f3n T\u00e9cnica para los modelos e-up! y e-Golf es de 80 \u20ac."
+        },
+        {
+            "question": "\u00bfQui\u00e9n realiza los trabajos en los componentes el\u00e9ctricos del veh\u00edculo?",
+            "answer": "Los trabajos en los componentes el\u00e9ctricos son realizados por un especialista en alto voltaje (HVT) en los Servicios Oficiales de Volkswagen.",
+            "rag_answer": "Los trabajos en los componentes el\u00e9ctricos del veh\u00edculo son realizados en los Servicios Oficiales por un especialista en alto voltaje (HVT)."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sistemas se revisan durante la Inspecci\u00f3n T\u00e9cnica?",
+            "answer": "La inspecci\u00f3n incluye la comprobaci\u00f3n del sistema de frenos, suspensi\u00f3n, direcci\u00f3n, cable de carga, tomas de corriente de alto voltaje y m\u00e1s.",
+            "rag_answer": "Durante la Inspecci\u00f3n T\u00e9cnica, se revisan los siguientes sistemas y componentes:\n\n- Bater\u00eda.\n- Alumbrado delantero, trasero y reglaje de faros.\n- Iluminaci\u00f3n interior.\n- Sistema limpiaparabrisas y lavafaros.\n- Techo corredizo.\n- Test de corrosi\u00f3n de carrocer\u00eda.\n- Detecci\u00f3n de da\u00f1os en el parabrisas y las lunas.\n- Neum\u00e1ticos.\n- Correa de distribuci\u00f3n.\n- Comprobaci\u00f3n visual del motor y la caja de cambios.\n- Comprobaci\u00f3n del sistema de suspensi\u00f3n y direcci\u00f3n.\n- Comprobaci\u00f3n del sistema de gases de escape.\n- Comprobaci\u00f3n del sistema de frenos, grosor de las pastillas y estado de los discos de freno.\n- L\u00edquido de protecci\u00f3n anticongelante limpiaparabrisas.\n- L\u00edquido del sistema de refrigeraci\u00f3n.\n- Recorrido de prueba."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la duraci\u00f3n de la garant\u00eda de reparaci\u00f3n de Volkswagen?",
+            "answer": "Volkswagen ofrece una garant\u00eda de reparaci\u00f3n de 2 a\u00f1os, que incluye mano de obra, Recambios Originales\u00ae Volkswagen y Accesorios Volkswagen.",
+            "rag_answer": "La duraci\u00f3n de la garant\u00eda de reparaci\u00f3n de Volkswagen es de 2 a\u00f1os."
+        },
+        {
+            "question": "\u00bfCu\u00e1nto dura la garant\u00eda de chapa y pintura contra perforaci\u00f3n por corrosi\u00f3n?",
+            "answer": "La garant\u00eda contra perforaci\u00f3n por corrosi\u00f3n en la carrocer\u00eda dura 12 a\u00f1os, sin l\u00edmite de kil\u00f3metros.",
+            "rag_answer": "La garant\u00eda de chapa y pintura contra perforaci\u00f3n por corrosi\u00f3n dura 12 a\u00f1os."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el per\u00edodo de cobertura de la garant\u00eda para un veh\u00edculo nuevo de Volkswagen?",
+            "answer": "La garant\u00eda para un veh\u00edculo nuevo de Volkswagen cubre defectos materiales y de fabricaci\u00f3n durante 2 a\u00f1os, sin l\u00edmite de kil\u00f3metros.",
+            "rag_answer": "El per\u00edodo de cobertura de la garant\u00eda para un veh\u00edculo nuevo de Volkswagen es de 2 a\u00f1os por defectos materiales y de fabricaci\u00f3n, sin limitaci\u00f3n de kil\u00f3metros."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de kil\u00f3metros cubiertos bajo la garant\u00eda de bater\u00edas para veh\u00edculos el\u00e9ctricos e h\u00edbridos?",
+            "answer": "La garant\u00eda de bater\u00edas para veh\u00edculos el\u00e9ctricos e h\u00edbridos cubre hasta 160.000 km o 8 a\u00f1os, lo que ocurra primero.",
+            "rag_answer": "El l\u00edmite m\u00e1ximo de kil\u00f3metros cubiertos bajo la garant\u00eda de bater\u00edas para veh\u00edculos el\u00e9ctricos e h\u00edbridos es de 160,000 km."
+        },
+        {
+            "question": "\u00bfSe puede extender la garant\u00eda para un veh\u00edculo nuevo de Volkswagen, y si es as\u00ed, por cu\u00e1nto tiempo?",
+            "answer": "S\u00ed, la garant\u00eda para un veh\u00edculo nuevo de Volkswagen se puede extender por 2 a\u00f1os (hasta 80.000 km) o 3 a\u00f1os (hasta 100.000 km).",
+            "rag_answer": "S\u00ed, la garant\u00eda para un veh\u00edculo nuevo de Volkswagen se puede extender. En el momento de la compra, se puede extender por hasta 2 o 3 a\u00f1os adicionales."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se recomienda cambiar el aceite del sistema DSG?",
+            "answer": "Se recomienda cambiar el aceite del sistema DSG cada 60.000 km o 4 a\u00f1os, lo que ocurra primero.",
+            "rag_answer": "Se recomienda cambiar el aceite del sistema DSG cada 60,000 km o 4 a\u00f1os."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 se debe cambiar el aceite del sistema DSG en Volkswagen Service?",
+            "answer": "En Volkswagen Service utilizamos el equipo de Diagnosis Volkswagen para determinar la cantidad exacta de aceite que necesita el veh\u00edculo, asegurando precisi\u00f3n.",
+            "rag_answer": "En Volkswagen Service, se debe cambiar el aceite del sistema DSG porque el equipo de Diagnosis Volkswagen realiza el cambio de aceite del sistema DSG determinando la cantidad exacta de aceite que el veh\u00edculo necesita."
+        },
+        {
+            "question": "\u00bfQu\u00e9 incluye el servicio de cambio de aceite del sistema DSG?",
+            "answer": "El servicio incluye mano de obra, aceite para el cambio, filtro de aceite, piezas auxiliares y el uso de Recambios Originales\u00ae Volkswagen.",
+            "rag_answer": "El servicio de cambio de aceite del sistema DSG incluye:\n\n- Mano de obra.\n- Aceite para el cambio.\n- Filtro de aceite.\n- Piezas auxiliares."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los beneficios de usar Recambios Originales\u00ae Volkswagen para el cambio de aceite del sistema DSG?",
+            "answer": "Los Recambios Originales\u00ae Volkswagen aseguran un rendimiento \u00f3ptimo del sincronizador y del embrague gracias a sus propiedades lubricantes, estabilidad t\u00e9rmica y oxidativa, y excelente fluidez en fr\u00edo.",
+            "rag_answer": "La informaci\u00f3n sobre los beneficios espec\u00edficos de usar Recambios Originales\u00ae Volkswagen para el cambio de aceite del sistema DSG no est\u00e1 disponible en las im\u00e1genes proporcionadas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el precio para un cambio de aceite del sistema DSG para un Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE?",
+            "answer": "El precio recomendado para un cambio de aceite del sistema DSG para un Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE es de \u20ac225 (IVA incluido).",
+            "rag_answer": "El precio para un cambio de aceite del sistema DSG para un Volkswagen Golf/Variant/Plus/Cabrio/Sportsvan/GTE es de 225\u20ac."
+        },
+        {
+            "question": "\u00bfQu\u00e9 es el servicio Volkswagen Check?",
+            "answer": "Volkswagen Check es un servicio que proporciona una valoraci\u00f3n t\u00e9cnica del estado de un Volkswagen de segunda mano mediante una revisi\u00f3n f\u00edsica, ayud\u00e1ndote a vender o comprar con total confianza.",
+            "rag_answer": "El servicio Volkswagen Check est\u00e1 dise\u00f1ado para compradores y vendedores de veh\u00edculos de segunda mano. Proporciona una valoraci\u00f3n t\u00e9cnica sobre el estado del veh\u00edculo tras una revisi\u00f3n f\u00edsica, aportando seguridad al comprador sobre las condiciones del veh\u00edculo al momento de ser comprado, y valor a los vendedores al verificar el estado del veh\u00edculo mediante t\u00e9cnicos especialistas.\n\nEl servicio exclusivo es para veh\u00edculos de m\u00e1s de seis meses de antig\u00fcedad e incluye: \n\n- Comprobaci\u00f3n visual en elevador.\n- Pruebas de circulaci\u00f3n.\n- Comprobaci\u00f3n bajo el cap\u00f3.\n- Alumbrado.\n- Comprobaci\u00f3n del estado de la carrocer\u00eda y el interior.\n- Comprobaci\u00f3n de la parte baja del veh\u00edculo.\n- Comprobaci\u00f3n general."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las condiciones para utilizar Volkswagen Check?",
+            "answer": "El servicio es exclusivo para clientes que tengan veh\u00edculos con m\u00e1s de seis meses de antig\u00fcedad.",
+            "rag_answer": "Las condiciones para utilizar Volkswagen Check son que el servicio es exclusivo para clientes con veh\u00edculos de **m\u00e1s de seis meses de antig\u00fcedad**."
+        },
+        {
+            "question": "\u00bfQu\u00e9 incluye el servicio Volkswagen Check?",
+            "answer": "El servicio incluye comprobaci\u00f3n visual en elevador, pruebas de circulaci\u00f3n, revisi\u00f3n bajo el cap\u00f3, verificaci\u00f3n del alumbrado, comprobaci\u00f3n del estado de la carrocer\u00eda e interior, revisi\u00f3n de la parte baja del veh\u00edculo y una comprobaci\u00f3n general.",
+            "rag_answer": "El servicio Volkswagen Check incluye:\n\n- Comprobaci\u00f3n visual en elevador.\n- Pruebas de circulaci\u00f3n.\n- Comprobaci\u00f3n bajo el cap\u00f3.\n- Alumbrado.\n- Comprobaci\u00f3n del estado de la carrocer\u00eda y el interior.\n- Comprobaci\u00f3n de la parte baja del veh\u00edculo.\n- Comprobaci\u00f3n general."
+        },
+        {
+            "question": "\u00bfC\u00f3mo beneficia Volkswagen Check a los compradores?",
+            "answer": "Ofrece a los compradores la tranquilidad de saber, de la mano de expertos, en qu\u00e9 condiciones se encuentra el veh\u00edculo en el momento de la compra.",
+            "rag_answer": "Volkswagen Check beneficia a los compradores proporcion\u00e1ndoles tranquilidad al saber en qu\u00e9 condiciones se encuentra el veh\u00edculo en el momento de ser comprado, gracias a la valoraci\u00f3n t\u00e9cnica hecha por expertos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 es Volkswagen Seguros by Zurich?",
+            "answer": "Volkswagen Seguros by Zurich es un seguro dise\u00f1ado a medida para conductores de Volkswagen, que ofrece una cobertura completa para que siempre disfrutes de la m\u00e1xima tranquilidad.",
+            "rag_answer": "Volkswagen Seguros by Zurich es un seguro ofrecido por Zurich, dise\u00f1ado espec\u00edficamente para conductores de Volkswagen. Este seguro proporciona diversas ventajas, como un 50% de descuento en la franquicia si reparas tu veh\u00edculo en un Concesionario o Servicio Oficial donde contrataste la p\u00f3liza. Tambi\u00e9n ofrece el valor de compra garantizado en caso de siniestro total durante los dos primeros a\u00f1os. Adem\u00e1s, brinda acceso a la Red de Servicios Oficiales Volkswagen, asegurando atenci\u00f3n especializada y garant\u00eda en las reparaciones. Se puede contratar si el veh\u00edculo tiene menos de 24 meses."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ventajas ofrece Volkswagen Seguros by Zurich?",
+            "answer": "Proporciona un 50% de descuento en la franquicia (hasta un m\u00ednimo de 180\u20ac cuando se repara en el concesionario o servicio oficial) y garantiza el valor de compra en caso de siniestro total durante los primeros 2 a\u00f1os.",
+            "rag_answer": "Volkswagen Seguros by Zurich ofrece las siguientes ventajas:\n\n1. **50% de descuento en la franquicia**: Al reparar el veh\u00edculo en el Concesionario o Servicio Oficial en el que se contrat\u00f3 la p\u00f3liza, se reduce la franquicia en un 50%, hasta un m\u00ednimo de 180\u20ac.\n\n2. **Valor de Nuevo**: Garant\u00eda del valor de compra del veh\u00edculo. En caso de siniestro total, se asegura el valor del veh\u00edculo en el momento de la compra durante los dos primeros a\u00f1os.\n\n3. **Red de Servicios Oficiales Volkswagen**: Disponibilidad de una red donde se cuenta con atenci\u00f3n especializada y garant\u00eda de reparaciones con recambios originales de Volkswagen."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el intervalo recomendado para el mantenimiento oficial de Volkswagen?",
+            "answer": "Se recomienda realizar el mantenimiento oficial de Volkswagen cada 30.000 km o 2 a\u00f1os, aunque puede ser necesario antes dependiendo del uso del veh\u00edculo.",
+            "rag_answer": "El mantenimiento oficial de Volkswagen se recomienda cada 30,000 km o 2 a\u00f1os. Sin embargo, esta operaci\u00f3n podr\u00eda realizarse antes dependiendo del uso del veh\u00edculo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 problemas puede causar un filtro de aceite en mal estado?",
+            "answer": "Un filtro de aceite en mal estado puede provocar un mayor consumo de combustible, p\u00e9rdida de potencia, da\u00f1os en los cojinetes e incluso un desgaste severo y aver\u00edas en el motor.",
+            "rag_answer": "Un filtro de aceite en mal estado puede causar un mayor consumo de combustible, provocar una p\u00e9rdida de potencia en el veh\u00edculo, da\u00f1ar los cojinetes e incluso desgastar y averiar el motor."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 elegir Volkswagen Service para el mantenimiento?",
+            "answer": "Los profesionales de Volkswagen Service conocen muy bien tu coche y siempre utilizan Volkswagen Recambios Originales\u00ae y Volkswagen Aceite Original, lo cual garantiza el correcto funcionamiento y protecci\u00f3n de tu veh\u00edculo.",
+            "rag_answer": "Elegir Volkswagen Service para el mantenimiento tiene varias ventajas:\n\n1. **Expertos en tu veh\u00edculo**: Los profesionales de Volkswagen Service conocen bien tu veh\u00edculo y saben c\u00f3mo cuidarlo adecuadamente.\n\n2. **Uso de piezas originales**: En el mantenimiento oficial se utilizan siempre Recambios Originales Volkswagen y Volkswagen Aceite Original, lo que asegura el funcionamiento perfecto del veh\u00edculo.\n\n3. **Tecnolog\u00eda y especialistas**: Cuentan con los mejores especialistas y la mejor tecnolog\u00eda para garantizar un rendimiento excelente.\n\n4. **Conocimiento especializado**: Disponen del conocimiento especializado necesario para operaciones espec\u00edficas, como el cambio de aceite del sistema 4MOTION, asegurando su correcto funcionamiento.\n\n5. **Diagn\u00f3stico electr\u00f3nico**: Cada inspecci\u00f3n incluye un diagn\u00f3stico electr\u00f3nico para verificar que todo funcione correctamente.\n\nEstas razones aseguran que t\u00fa y tu Volkswagen reciban el mejor cuidado y servicio."
+        },
+        {
+            "question": "\u00bfQu\u00e9 servicios se incluyen en el mantenimiento oficial de Volkswagen?",
+            "answer": "El mantenimiento incluye mano de obra, revisi\u00f3n de los puntos de control especificados por el fabricante, cambio del filtro de aceite y sustituci\u00f3n del aceite con Volkswagen Aceite Original, entre otras verificaciones.",
+            "rag_answer": "El mantenimiento oficial de Volkswagen incluye los siguientes servicios:\n\n- Mano de obra.\n- Revisi\u00f3n de los puntos de control especificados por el fabricante.\n- Cambio de filtro de aceite.\n- Cambio de Volkswagen Aceite Original, dise\u00f1ado espec\u00edficamente para motores Volkswagen.\n\nAdem\u00e1s, dentro del Mantenimiento Plus Volkswagen se incluyen:\n\n- Inspecci\u00f3n T\u00e9cnica.\n- Cambio de filtro de polvo y polen.\n- Cambio de buj\u00edas, solo para veh\u00edculos con motor gasolina.\n- Cambio de correa de distribuci\u00f3n.\n- Cambio de filtro de aire.\n- Cambio de filtro de combustible, solo para veh\u00edculos con motor di\u00e9sel.\n- Cambio de l\u00edquido de frenos.\n- Cambio de aceite sistema DSG.\n- Cambio de aceite sistema 4MOTION.\n- Reposici\u00f3n aditivo AdBlue\u00ae."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el intervalo recomendado para la primera inspecci\u00f3n t\u00e9cnica?",
+            "answer": "Se recomienda realizar la primera inspecci\u00f3n t\u00e9cnica a los 3 a\u00f1os o 45.000 km, y posteriormente cada 2 a\u00f1os o 60.000 km, seg\u00fan lo indica el Plan de Mantenimiento Volkswagen.",
+            "rag_answer": "La primera Inspecci\u00f3n T\u00e9cnica Volkswagen el\u00e9ctricos se recomienda a los 2 a\u00f1os. Para otros veh\u00edculos Volkswagen, se recomienda a los 3 a\u00f1os o 45,000 km."
+        },
+        {
+            "question": "\u00bfQu\u00e9 servicios se realizan durante la inspecci\u00f3n t\u00e9cnica?",
+            "answer": "La inspecci\u00f3n t\u00e9cnica incluye mano de obra, diagn\u00f3stico electr\u00f3nico, revisi\u00f3n del aceite del motor y la verificaci\u00f3n, ajuste o engrasado de elementos como la bater\u00eda, el alumbrado, los limpiaparabrisas, entre otros.",
+            "rag_answer": "Durante la inspecci\u00f3n t\u00e9cnica se realizan los siguientes servicios:\n\n- Mano de obra.\n- Diagn\u00f3stico electr\u00f3nico.\n- Revisi\u00f3n del aceite del motor (aplicable a veh\u00edculos no el\u00e9ctricos).\n- Revisi\u00f3n de puntos de control espec\u00edficos por el fabricante.\n- Cambio de escobillas limpiaparabrisas, filtro de polvo y polen, buj\u00edas, bater\u00eda, correa de distribuci\u00f3n, y l\u00edquido de frenos.\n- Verificaci\u00f3n, ajuste o engrase de bater\u00eda, alumbrado, sistema limpiaparabrisas, techo corredizo, entre otros.\n- Comprobaci\u00f3n visual del motor y la caja de cambios, sistema de suspensi\u00f3n y direcci\u00f3n, entre otros.\n- Variables adicionales como pruebas del sistema de descontaminaci\u00f3n y del sistema de frenos."
+        }
+    ]
+}
