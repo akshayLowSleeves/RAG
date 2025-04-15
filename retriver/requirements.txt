@@ -1,0 +1,15 @@
+colpali_engine==0.3.9
+fastapi==0.115.12
+httpx==0.28.1
+torch==2.6.0
+pillow==10.4.0
+qdrant-client==1.13.3
+transformers==4.50.3
+pydantic==2.11.3
+tqdm==4.67.1
+uvicorn==0.34.0
+python-dotenv==1.1.0
+stamina==25.1.0
+PyMuPDF==1.25.5
+
+

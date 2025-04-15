@@ -1,0 +1,7 @@
+fastapi==0.115.12
+pillow==10.4.0
+pydantic==2.11.3
+openai==1.73.0
+uvicorn==0.34.0
+python-dotenv==1.1.0
+PyMuPDF==1.25.5

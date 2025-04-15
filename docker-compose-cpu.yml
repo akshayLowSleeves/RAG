@@ -1,0 +1,38 @@
+services:
+  qdrant:
+    image: qdrant/qdrant
+    container_name: qdrant
+    networks:
+      - rag  
+    environment:
+      QDRANT__SERVICE__API_KEY: ${QDRANT__SERVICE__API_KEY}
+    volumes:
+      - ./qdrant_storage:/qdrant/storage:z 
+  retriver:
+    build: ./retriver/
+    container_name: retriver
+    image: retriver:latest
+    depends_on:
+      - qdrant
+    volumes: 
+      - ./retriver/:/app
+    networks:
+      - rag 
+    environment:
+      CUDA_AVAILAIBLE: ${CUDA_AVAILAIBLE}
+      QDRANT__SERVICE__API_KEY: ${QDRANT__SERVICE__API_KEY}
+    ports:
+      - "127.0.0.1:8444:8444"  
+  generator:
+    build: ./generator/
+    container_name: generator
+    image: generator:latest
+    networks:
+      - rag  
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes: 
+      - ./generator/:/app
+networks:
+  rag:
+    driver: bridge 
