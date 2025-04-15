@@ -38,7 +38,7 @@ After setting up the environment variables, proceed with the Docker build and ru
 
 ## 3. Making API Requests
 
-After running the containers, you can send requests to the API. Below is a sample Python script demonstrating how to make an API request:
+After running the containers, you can send requests to the API. Below is a sample Python script demonstrating how to make an API request ( REMEMBER to change the API key ) :
 
 ```
 python
